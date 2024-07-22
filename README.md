@@ -4,7 +4,7 @@
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
 - Skills: AWS, Azure, Google Cloud, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
-- 📫 You can reach me out at muneebuddinahmed97@gmail.com for discussions
+- 📫 You can reach me out at <a href="mailto:muneebuddinahmed97@gmail.com"> Email Me </a> for discussions
 <div align="justify">
 
 [![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/Portfolio/)
