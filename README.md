@@ -20,6 +20,7 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
 </p>
 
 ## My favorite tools and technologies ⚙️ 
+ 
 
 > Tools and technologies that I have worked with and am interested in.
 <table>
@@ -55,10 +56,6 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
     <td align="center" width="96">
         <img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="48" height="48" alt="GitHub" />
       <br><span style="font-size: 14px;">GitHub</span>
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br><span style="font-size: 14px;">GitLab</span>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
