@@ -3,10 +3,8 @@
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
-- 📫 You can reach me out at muneebuddinahmed97@gmail.com
-- :heart_eyes: Love to do bash scripting in Bash & Python.
-- :sunglasses: Can do attitude.
 - Skills: AWS, Azure, Google Cloud, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
+- 📫 You can reach me out at muneebuddinahmed97@gmail.com for discussions
 <div align="justify">
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
