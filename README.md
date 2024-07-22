@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muneebuddinahmed
+![image](https://github.com/user-attachments/assets/0e1cf97f-629b-431a-bad5-d44f4fc623ea)- 👋 Hi, I’m @muneebuddinahmed
 - :smirk: I am a Multi-Cloud Support & DevOps Engineer.
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
@@ -53,7 +53,7 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
       <br><span style="font-size: 14px;">Git</span>
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="48" height="48" alt="GitHub" />
       <br><span style="font-size: 14px;">GitHub</span>
     </td>
     <td align="center"  width="96">
@@ -72,11 +72,17 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br><span style="font-size: 14px;">Nginx</span>
+      <br><span style="font-size: 14px;">NGINX</span>
     </td>
+        <td align="center" width="96">
+        <img src="https://tomcat.apache.org/res/images/tomcat.png" width="48" height="48" alt="Terraform" />
+      <br><span style="font-size: 14px;">Tomcat</span>
+        <td align="center" width="96">
+        <img src="https://www.apache.org/logos/originals/foundation.svg" width="48" height="48" alt="Terraform" />
+      <br><span style="font-size: 14px;">Apache</span>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
-      <br><span style="font-size: 14px;">vscode</span>
+      <br><span style="font-size: 14px;">VSCode</span>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
@@ -84,11 +90,11 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br><span style="font-size: 14px;">Amazon Web Services (AWS)</span>
+      <br><span style="font-size: 14px;">AWS</span>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
-      <br><span style="font-size: 14px;">Google Cloud Platform</span>
+      <br><span style="font-size: 14px;"> GCP </span>
     </td>
   </tr>
   <tr>
@@ -104,6 +110,15 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br><span style="font-size: 14px;">Terraform</span>
     </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="48" height="48" alt="Terraform" />
+      <br><span style="font-size: 14px;">Ansible</span>
+    </td>
+      <td align="center" width="96">
+        <img src="https://icons-for-free.com/iff/png/512/argocd-1331550886883580947.png" width="48" height="48" alt="Terraform" />
+      <br><span style="font-size: 14px;">ArgoCD</span>
+    </td>
+    
   </tr>
 </table>
 
