@@ -36,6 +36,10 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="48" height="48" />
       <br><span style="font-size: 14px;">Linux</span>
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="48" height="48" />
+      <br><span style="font-size: 14px;">Jenkins</span>
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
       <br><span style="font-size: 14px;">Docker</span>
