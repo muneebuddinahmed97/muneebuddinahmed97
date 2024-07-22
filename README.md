@@ -23,82 +23,85 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
 
 ## My favorite tools and technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with and am interested in.
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
       </a>
-      <br>Python
+      <br><span style="font-size: 14px;">Python</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="48" height="48" />
+      <br><span style="font-size: 14px;">Linux</span>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+      <br><span style="font-size: 14px;">Docker</span>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="48" height="48" />
+      <br><span style="font-size: 14px;">Kubernetes</span>
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+      <br><span style="font-size: 14px;">Git</span>
     </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+      <br><span style="font-size: 14px;">GitHub</span>
     </td>
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+      <br><span style="font-size: 14px;">GitLab</span>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <br><span style="font-size: 14px;">HTML</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><span style="font-size: 14px;">CSS</span>
     </td>
- <tr>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
+      <br><span style="font-size: 14px;">Nginx</span>
     </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
-      <br>vscode
-    </td> 
-          <td align="center" width="96">
+      <br><span style="font-size: 14px;">vscode</span>
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td> 
-        <td align="center" width="96">
+      <br><span style="font-size: 14px;">MySQL</span>
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br>Amazon Web Services (AWS)
+      <br><span style="font-size: 14px;">Amazon Web Services (AWS)</span>
     </td>
-      </td> 
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
-      <br>GoogleCloudPlatform
+      <br><span style="font-size: 14px;">Google Cloud Platform</span>
     </td>
-        <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
-      <br>Microsoft Azure
-    </td>    
-          <td align="center" width="96">
-        <img src="https://private-user-images.githubusercontent.com/55458154/347790009-fcb002be-58dd-402a-a47c-71f13edd35e1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2NDIzODMsIm5iZiI6MTcyMTY0MjA4MywicGF0aCI6Ii81NTQ1ODE1NC8zNDc3OTAwMDktZmNiMDAyYmUtNThkZC00MDJhLWE0N2MtNzFmMTNlZGQzNWUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIyVDA5NTQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxYTIzMWIzMTg1ODRmMDFlNDdlYTU4ZWUxMTNlMmM2MGMzMzYwMDRmNTBlMTk2MWRmOWY5MjEzNzFlNjRlNDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hQUcb0fcrt83w-fbHgMn0rbGk_AyWIYDDW7LtbRQ2_c" width="48" height="48" alt="argocd" />
-      <br>ArgoCD
+      <br><span style="font-size: 14px;">Microsoft Azure</span>
     </td>
- </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br><span style="font-size: 14px;">GitHub Actions</span>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br><span style="font-size: 14px;">Terraform</span>
+    </td>
+  </tr>
 </table>
+
