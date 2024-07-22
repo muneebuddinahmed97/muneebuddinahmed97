@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e1cf97f-629b-431a-bad5-d44f4fc623ea)- 👋 Hi, I’m @muneebuddinahmed
+👋 Hi, I’m @muneebuddinahmed
 - :smirk: I am a Multi-Cloud Support & DevOps Engineer.
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
