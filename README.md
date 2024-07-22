@@ -9,7 +9,7 @@
 
 [![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/Portfolio/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
+[![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
 
 
 </div>  
