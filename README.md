@@ -14,7 +14,7 @@
 
 </div>  
 <p align="justify"> 
-I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficiency in managing and optimizing cloud environments, including AWS and Azure. I have a proven track record of building and deploying high-quality and scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in both Cloud & DevOps, along with some best security tools and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies.
+I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficiency in managing and optimizing cloud environments, including AWS, Azure & Google Cloud Platform. I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies.
 &nbsp;
 
 </p>
@@ -66,7 +66,7 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br><span style="font-size: 14px;">NGINX</span>
+      <br><span style="font-size: 14px;">Nginx</span>
     </td>
     <td align="center" width="96">
         <img src="https://tomcat.apache.org/res/images/tomcat.png" width="48" height="48" alt="Tomcat" />
