@@ -1,49 +1,48 @@
-👋 Hi everyone, Welcome to my Github profile. My name is **Muneeb Uddin Ahmed**
--  I am a Multi-Cloud Support & DevOps Engineer.
--  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
--  Proficient in DevOps practices and tools to automate and streamline operations.
--  Passionate about learning and implementing new technologies to improve system efficiency and performance.
-- Skills: AWS, Azure, Google Cloud, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
-- 📫 You can reach me out at <a href="mailto:muneebuddinahmed97@gmail.com"> Email Me </a> for discussions
-<div align="justify">
+👋 Hi there! Welcome to my GitHub profile!
 
-[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/Portfolio/)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
-[![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
+My name is Muneeb Uddin Ahmed, and I’m a passionate Multi-Cloud Support & DevOps Engineer with extensive experience in managing and optimizing cloud environments.
+About Me 🌟
 
+I specialize in supporting and automating multi-cloud environments with a strong focus on AWS, Azure, and Google Cloud Platform. My work involves building scalable infrastructures, optimizing performance, and ensuring robust system security. I am always on the lookout for the latest technologies and best practices to enhance system efficiency and effectiveness.
 
-</div>  
-<p align="justify"> 
-I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficiency in managing and optimizing cloud environments, including AWS, Azure & Google Cloud Platform. I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies.
-&nbsp;
+    🔧 Skills:
+        Cloud Platforms: AWS, Azure, Google Cloud
+        DevOps Tools: Docker, Kubernetes, Jenkins, Ansible, Terraform, ArgoCD
+        Programming Languages: Python
+        Version Control: Git, GitHub
+        Web Technologies: HTML, CSS
+        Databases: MySQL
+        Web Servers: Nginx, Tomcat, Apache
+        IDEs: VSCode
 
-</p>
+🚀 My Mission
 
-## My favorite tools and technologies ⚙️ 
+To leverage my skills in cloud computing and DevOps to deliver innovative solutions that drive efficiency and performance in dynamic environments. My mission is to continuously learn, adapt, and apply new technologies to solve complex challenges in the cloud and DevOps domains.
+🛠️ My Favorite Tools and Technologies
 
-> Tools and technologies that I have worked with and am interested in.
+Here’s a snapshot of the tools and technologies I use:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+      <a href="#python">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
       </a>
       <br><span style="font-size: 14px;">Python</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
       <br><span style="font-size: 14px;">Linux</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
       <br><span style="font-size: 14px;">Jenkins</span>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
       <br><span style="font-size: 14px;">Docker</span>
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
       <br><span style="font-size: 14px;">Kubernetes</span>
     </td>
     <td align="center" width="96"> 
@@ -77,25 +76,25 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
       <br><span style="font-size: 14px;">Apache</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
       <br><span style="font-size: 14px;">VSCode</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br><span style="font-size: 14px;">MySQL</span>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><span style="font-size: 14px;">AWS</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br><span style="font-size: 14px;">GCP</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br><span style="font-size: 14px;">Microsoft Azure</span>
     </td>
     <td align="center" width="96">
@@ -116,3 +115,35 @@ I am an experienced Multi-Cloud Support & DevOps Engineer with a strong proficie
     </td>
   </tr>
 </table>
+🏆 Projects and Achievements
+
+Check out some of the projects I’ve worked on:
+
+    Project 1: Multi-Cloud Automation Framework - A framework for automating multi-cloud deployments using Terraform and Ansible.
+    Project 2: Kubernetes Cluster Management Tool - A tool to manage and scale Kubernetes clusters efficiently.
+    Project 3: CI/CD Pipeline Setup for Web Applications - A comprehensive CI/CD pipeline for deploying web applications with Jenkins and GitHub Actions.
+
+📈 GitHub Stats
+
+Here are some of my GitHub stats:
+
+🌐 Get in Touch
+
+Feel free to reach out to me for discussions, collaborations, or just to connect:
+
+    📧 Email Me
+    LinkedIn
+    Portfolio
+    Instagram
+
+🔗 Useful Links
+
+    Blog - Check out my blog for articles on Cloud and DevOps topics.
+    GitHub Repositories - Explore my repositories for more projects and code samples.
+
+✨ Fun Facts
+
+    I enjoy exploring new technologies and tools in the Cloud and DevOps ecosystem.
+    In my free time, I like to read about the latest advancements in tech and work on personal projects.
+    I’m a strong advocate for the DevOps culture of collaboration and continuous improvement.
+
