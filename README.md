@@ -7,7 +7,7 @@
 - 📫 You can reach me out at <b><a href="mailto:muneebuddinahmed97@gmail.com">Email</a></b> for further inquiries & discussions.
 <div align="justify">
 
-[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/Portfolio/)
+[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
 [![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
 
