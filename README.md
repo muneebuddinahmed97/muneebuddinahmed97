@@ -129,11 +129,11 @@ I have a proven track record of building and deploying application using scalabl
       <br><span style="font-size: 14px;">Trivy</span>
     </td>
         <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png" width="48" height="48" alt="PfSense Firewall" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LRmXo6Pa1TWoekkSLZPnXGYJC6vTWhq1-Q&s" width="48" height="48" alt="PfSense Firewall" />
       <br><span style="font-size: 14px;">PfSense Firewall</span>
     </td>
         <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1lcL-U4Aeblv7R8SkiQTxzxcdVVQxr_8OA&s" width="48" height="48" alt="Citrix Xenserver" />
+        <img src="https://cdn.worldvectorlogo.com/logos/citrix.svg" width="48" height="48" alt="Citrix Xenserver" />
       <br><span style="font-size: 14px;">Citrix Xenserver</span>
     </td>
 
