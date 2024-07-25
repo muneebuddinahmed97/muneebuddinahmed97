@@ -133,7 +133,7 @@ I have a proven track record of building and deploying application using scalabl
       <br><span style="font-size: 14px;">PfSense Firewall</span>
     </td>
         <td align="center" width="96">
-        <img src="https://e7.pngegg.com/pngimages/621/432/png-clipart-spellforce-platinum-edition-logo-citrix-xenapp-platinum-edition-for-windows-the-official-guide-product-design-brand-citrix-receiver-icon-text-logo.png" width="48" height="48" alt="Citrix Xenserver" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1lcL-U4Aeblv7R8SkiQTxzxcdVVQxr_8OA&s" width="48" height="48" alt="Citrix Xenserver" />
       <br><span style="font-size: 14px;">Citrix Xenserver</span>
     </td>
 
