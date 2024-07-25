@@ -70,8 +70,8 @@
       <br><span style="font-size: 14px;">Jenkins</span>
     </td>
             <td align="center" width="92">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub/Github Actions" />
-      <br><span style="font-size: 11px;">GitHub / GH Actions</span>
+        <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="Github Actions" />
+      <br><span style="font-size: 11px;">GitHub Actions</span>
     </td>
         <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
