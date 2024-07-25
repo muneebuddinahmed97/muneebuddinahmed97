@@ -1,9 +1,15 @@
-👋 Hi everyone, Welcome to my Github profile. My name is **Muneeb Uddin Ahmed**
+👋 Hello Everyone! Welcome to my Github profile. My name is **Muneeb Uddin Ahmed**
 -  I am a Multi-Cloud Support & DevOps Engineer.
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
 - Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
+
+</div>  
+<p align="justify"> 
+I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
+&nbsp;
+</p>
 - 📫 You can reach me out at <b><a href="mailto:muneebuddinahmed97@gmail.com">Email</a></b> for further inquiries & discussions.
 <div align="justify">
 
@@ -11,13 +17,6 @@
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
 [![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
 
-
-</div>  
-<p align="justify"> 
-I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
-&nbsp;
-
-</p>
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -145,6 +144,8 @@ I have a proven track record of building and deploying application using scalabl
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVYJ4XL53FWe9quGVb_cFryEo8J3m2OeYdQ&s" width="48" height="48" alt="MS SQL" />
       <br><span style="font-size: 14px;">MS SQL</span>
     </td>
-  </tr>
-  
+  </tr>  
 </table>
+
+
+
