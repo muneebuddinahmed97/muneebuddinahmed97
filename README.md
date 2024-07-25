@@ -68,7 +68,7 @@
       <br><span style="font-size: 14px;">Tomcat</span>
     </td>
     <td align="center" width="96">
-        <img src="https://www.apache.org/logos/originals/foundation.svg" width="48" height="48" alt="Apache" />
+        <img src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg" width="48" height="48" alt="Apache" />
       <br><span style="font-size: 14px;">Apache</span>
     </td>
     <td align="center" width="96">
