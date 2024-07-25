@@ -120,7 +120,7 @@
       <br><span style="font-size: 14px;">SonarQube</span>
     </td>
         <td align="center" width="96">
-        <img src="https://icons-for-free.com/iff/png/512/argocd-1331550886883580947.png" width="48" height="48" alt="Trivy" />
+        <img src="https://k21academy.com/wp-content/uploads/2021/04/trivy-logo-shape.png" width="48" height="48" alt="Trivy" />
       <br><span style="font-size: 14px;">Trivy</span>
     </td>
         <td align="center" width="96">
