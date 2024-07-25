@@ -59,6 +59,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br><span style="font-size: 14px;">CSS</span>
     </td>
+        <td align="center" width="96">
+        <img src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" width="48" height="48" alt="Apache" />
+      <br><span style="font-size: 14px;">Apache</span>
+    </td>
     <td align="center" width="96">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3521604-2945048.png?f=webp" width="48" height="48" alt="Nginx" />
       <br><span style="font-size: 14px;">Nginx</span>
@@ -66,10 +70,6 @@
     <td align="center" width="96">
         <img src="https://tomcat.apache.org/res/images/tomcat.png" width="48" height="48" alt="Tomcat" />
       <br><span style="font-size: 14px;">Tomcat</span>
-    </td>
-    <td align="center" width="96">
-        <img src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg" width="48" height="48" alt="Apache" />
-      <br><span style="font-size: 14px;">Apache</span>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
