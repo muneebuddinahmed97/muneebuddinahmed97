@@ -60,7 +60,7 @@
       <br><span style="font-size: 14px;">CSS</span>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3521604-2945048.png?f=webp" width="48" height="48" alt="Nginx" />
       <br><span style="font-size: 14px;">Nginx</span>
     </td>
     <td align="center" width="96">
