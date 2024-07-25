@@ -3,7 +3,7 @@
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
-- Skills: AWS, Azure, Google Cloud, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
+- Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
 - 📫 You can reach me out at <b><a href="mailto:muneebuddinahmed97@gmail.com">Email</a></b> for further inquiries & discussions.
 <div align="justify">
 
