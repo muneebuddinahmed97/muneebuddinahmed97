@@ -69,9 +69,9 @@
         <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="48" height="48" />
       <br><span style="font-size: 14px;">Jenkins</span>
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub / Github Actions" />
-      <br><span style="font-size: 13px;">GitHub / GH Actions</span>
+            <td align="center" width="92">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub/Github Actions" />
+      <br><span style="font-size: 11px;">GitHub / GH Actions</span>
     </td>
         <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
@@ -113,6 +113,14 @@
   
 
   <tr>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><span style="font-size: 14px;">HTML</span>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><span style="font-size: 14px;">CSS</span>
+    </td>
         <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
@@ -127,22 +135,15 @@
         <img src="https://k21academy.com/wp-content/uploads/2021/04/trivy-logo-shape.png" width="48" height="48" alt="Trivy" />
       <br><span style="font-size: 14px;">Trivy</span>
     </td>
-        <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LRmXo6Pa1TWoekkSLZPnXGYJC6vTWhq1-Q&s" width="48" height="48" alt="PfSense Firewall" />
-      <br><span style="font-size: 14px;">PfSense Firewall</span>
+        <td align="center" width="92">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LRmXo6Pa1TWoekkSLZPnXGYJC6vTWhq1-Q&s" width="45" height="45" alt="PfSense Firewall" />
+      <br><span style="font-size: 11px;">PfSense Firewall</span>
     </td>
-        <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/citrix.svg" width="48" height="48" alt="Citrix Xenserver" />
-      <br><span style="font-size: 14px;">Citrix Xenserver</span>
+        <td align="center" width="92">
+        <img src="https://cdn.worldvectorlogo.com/logos/citrix.svg" width="45" height="45" alt="Citrix Xenserver" />
+      <br><span style="font-size: 11px;">Citrix Xenserver</span>
     </td>
-<td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br><span style="font-size: 14px;">HTML</span>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br><span style="font-size: 14px;">CSS</span>
-    </td>
+
   </tr>  
 </table>
 
