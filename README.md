@@ -6,7 +6,7 @@
 - Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD.
 - I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies.
 - I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
-- 📫 You can reach me out at <b><a href="mailto:muneebuddinahmed97@gmail.com">EMAIL ME</a></b> for further inquiries & discussions.
+- 📫 You can reach out to me at <b><a href="mailto:muneebuddinahmed97@gmail.com"> &#8594; Email Me &#8592; </a></b> for further inquiries & discussions.
 <div align="justify">
 
 [![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
