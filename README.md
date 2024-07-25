@@ -56,8 +56,6 @@
         <img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/logos/WHM_orange.svg" width="48" height="48" alt="WHM" />
       <br><span style="font-size: 14px;">WHM</span>
     </td>
-    </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="48" height="48" alt="CPanel" />
       <br><span style="font-size: 14px;">CPanel</span>
@@ -113,6 +111,8 @@
         <img src="https://icons-for-free.com/iff/png/512/argocd-1331550886883580947.png" width="48" height="48" alt="ArgoCD" />
       <br><span style="font-size: 14px;">ArgoCD</span>
     </td>
+      </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
       <br><span style="font-size: 14px;">Ansible</span>
