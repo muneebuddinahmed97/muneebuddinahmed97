@@ -141,8 +141,7 @@ I have a proven track record of building and deploying application using scalabl
         <img src="https://icons-for-free.com/iff/png/512/argocd-1331550886883580947.png" width="48" height="48" alt="ArgoCD" />
       <br><span style="font-size: 14px;">ArgoCD</span>
     </td>
-
-     <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVYJ4XL53FWe9quGVb_cFryEo8J3m2OeYdQ&s" width="48" height="48" alt="MS SQL" />
       <br><span style="font-size: 14px;">MS SQL</span>
     </td>
