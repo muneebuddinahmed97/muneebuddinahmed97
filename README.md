@@ -111,15 +111,17 @@ I have a proven track record of building and deploying application using scalabl
       <br><span style="font-size: 14px;">Ansible</span>
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/13507838/87209587-cd40d200-c2e8-11ea-8158-4820453a85cb.png" width="48" height="48" alt="WHM" />
+        <img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/logos/WHM_orange.svg" width="48" height="48" alt="WHM" />
       <br><span style="font-size: 14px;">WHM</span>
     </td>
+    </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="48" height="48" alt="CPanel" />
       <br><span style="font-size: 14px;">CPanel</span>
     </td>
         <td align="center" width="96">
-        <img src="data:image/png;base64,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" width="48" height="48" alt="SonarQube" />
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="48" height="48" alt="SonarQube" />
       <br><span style="font-size: 14px;">SonarQube</span>
     </td>
         <td align="center" width="96">
