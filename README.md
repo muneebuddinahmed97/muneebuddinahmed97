@@ -3,13 +3,9 @@
 -  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
-- Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD
-
-</div>  
-<p align="justify"> 
-I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies. I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
-&nbsp;
-</p>
+- Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD.
+- I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies.
+- I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
 - 📫 You can reach me out at <b><a href="mailto:muneebuddinahmed97@gmail.com">Email</a></b> for further inquiries & discussions.
 <div align="justify">
 
@@ -18,7 +14,7 @@ I have a proven track record of building and deploying application using scalabl
 [![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
 
 
-## My favorite tools and technologies ⚙️ 
+## My Favorite Tools and Technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in.
 <table>
@@ -95,7 +91,7 @@ I have a proven track record of building and deploying application using scalabl
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
-      <br><span style="font-size: 14px;">Microsoft Azure</span>
+      <br><span style="font-size: 14px;"> Azure</span>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
