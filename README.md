@@ -11,21 +11,36 @@
 
 <br>
 <li>
-<a href="https://twitter.com/sheikh_hr_4" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Muneeb_ahmed9-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/Muneeb_ahmed9" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Muneeb_ahmed9-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=TWITTER style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
 <a href="mailto:muneebuddinahmed97@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  muneebuddinahmed97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  muneebuddinahmed97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=MAIL style="margin-bottom: 5px;" />
 </a>
 </li>
 
-[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
-[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
-[![!Instagram](https://img.shields.io/badge/instagram-muneeb_ahmed97-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
+
+<li>
+<a href="https://muneebuddinahmed97.github.io/muneeb-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white" alt=PORTFOLIO style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<li>
+<a href="https://www.linkedin.com/in/muneebuddinahmed97/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt=LINKEDIN style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<li>
+<a href="https://www.instagram.com/muneeb_ahmed97/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-muneeb_ahmed97-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=INSTAGRAM style="margin-bottom: 5px;" />
+</a>
+</li>
+
 
 
 ## My Favorite Tools and Technologies ⚙️ 
@@ -160,6 +175,57 @@
 
   </tr>  
 </table>
+
+**My Amazon Web Services (AWS) Skills**:
+
+  
+  ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Route53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Code Commit](https://img.shields.io/badge/CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Code Pipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Code Build](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Code Deploy](https://img.shields.io/badge/CodeDeploy-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Cloud Watch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+  ![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![ECS](https://img.shields.io/badge/ECS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Systems Manager](https://img.shields.io/badge/Systems_Manager-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Config](https://img.shields.io/badge/Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Elastic Load Balancers](https://img.shields.io/badge/Load_Balancers-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS SNS](https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Fargate](https://img.shields.io/badge/Fargate-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br>
+
+- **My DevOps Skills**:
+
+   
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+  ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 
