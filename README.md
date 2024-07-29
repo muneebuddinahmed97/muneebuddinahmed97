@@ -6,12 +6,26 @@
 - Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD.
 - I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies.
 - I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
-- 📫 You can reach out to me at <b> &#8594; <a href="mailto:muneebuddinahmed97@gmail.com">Email Me</a> &#8592; </b> for further inquiries & discussions.
+- 📫 You can reach out to me at the given contact details below for further inquiries & discussions.
 <div align="justify">
 
+<br>
+<li>
+<a href="https://twitter.com/sheikh_hr_4" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Muneeb_ahmed9-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<a href="mailto:muneebuddinahmed97@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  muneebuddinahmed97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
 [![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneebuddinahmed97/)
-[![!Instagram](https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
+[![!Instagram](https://img.shields.io/badge/instagram-muneeb_ahmed97-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
 
 
 ## My Favorite Tools and Technologies ⚙️ 
