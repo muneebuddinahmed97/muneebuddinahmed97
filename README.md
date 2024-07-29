@@ -1,6 +1,6 @@
 👋 Hello Everyone! Welcome to my Github profile. My name is **Muneeb Uddin Ahmed**
 -  I am a Multi-Cloud Support & DevOps Engineer.
--  Experienced in managing and supporting multi-cloud environments, including AWS and Azure.
+-  Experienced in managing and supporting multi-cloud environments, including Amazon Web Services (AWS), Microsoft Azure & Google Cloud Platform (GCP)
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
 - Skills: AWS, Azure, Google Cloud, Citrix Xenserver, Pfsense Firewall, SonarQube, Trivy, Wazuh, WHM CPanel, Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform & ArgoCD.
