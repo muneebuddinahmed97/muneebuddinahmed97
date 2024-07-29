@@ -9,38 +9,36 @@
 - 📫 You can reach out to me at the given contact details below for further inquiries & discussions.
 <div align="justify">
 
-<br>
-<li>
+<p>
 <a href="https://twitter.com/Muneeb_ahmed9" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  Muneeb_ahmed9-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=TWITTER style="margin-bottom: 5px;"/>
 </a>
-</li>
+</p>
 
-<li>
+<p>
 <a href="mailto:muneebuddinahmed97@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  muneebuddinahmed97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=MAIL style="margin-bottom: 5px;" />
 </a>
-</li>
+</p>
 
 
-<li>
+<p>
 <a href="https://muneebuddinahmed97.github.io/muneeb-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white" alt=PORTFOLIO style="margin-bottom: 5px;" />
 </a>
-</li>
+</p>
 
-<li>
+<p>
 <a href="https://www.linkedin.com/in/muneebuddinahmed97/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt=LINKEDIN style="margin-bottom: 5px;" />
 </a>
-</li>
+</p>
 
-<li>
+<p>
 <a href="https://www.instagram.com/muneeb_ahmed97/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-muneeb_ahmed97-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=INSTAGRAM style="margin-bottom: 5px;" />
 </a>
-</li>
-
+</p>
 
 
 ## My Favorite Tools and Technologies ⚙️ 
