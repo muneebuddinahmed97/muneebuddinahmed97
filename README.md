@@ -16,13 +16,13 @@
   <a href="mailto:muneebuddinahmed97@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-muneebuddinahmed97@gmail.com-red?style=flat-square&logo=gmail" alt="Email: muneebuddinahmed97@gmail.com"/>
   </a>
-  <a href="https://portfolio.url" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=detikcom" alt="Portfolio"/>
+  <a href="https://muneebuddinahmed97.github.io/muneeb-portfolio/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio?style=flat-square&logo=detikcom" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/muneebahmed9/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/muneebahmed97/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Muneeb_Ahmed9-blue?style=flat-square&logo=linkedin" alt="LinkedIn: Muneeb Ahmed9"/>
   </a>
-  <a href="https://www.instagram.com/muneebahmed97/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/muneeb_ahmed97/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-Muneeb_Ahmed97-E4405F?style=flat-square&logo=instagram" alt="Instagram: Muneeb Ahmed97"/>
   </a>
 </div>
