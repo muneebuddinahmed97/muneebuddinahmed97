@@ -7,25 +7,14 @@
 - I have a proven track record of building and deploying application using scalable infrastructure, utilizing my expertise in various DevOps methodologies.
 - I am passionate about keeping up-to-date with the latest trends and technologies in the domain of both Cloud & DevOps, along with some best security tools as well and I am committed to delivering efficient, scalable, and maintainable infrastructure with the devops strategies and security.
 - 📫 You can reach out to me at the given contact details below for further inquiries & discussions.
-<div align="justify">
 
-<div align="center">
-  <a href="https://twitter.com/muneeb_ahmed9" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Muneeb_Ahmed9-blue?style=flat-square&logo=twitter" alt="Twitter: Muneeb Ahmed9"/>
-  </a>
-  <a href="mailto:muneebuddinahmed97@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-muneebuddinahmed97@gmail.com-red?style=flat-square&logo=gmail" alt="Email: muneebuddinahmed97@gmail.com"/>
-  </a>
-  <a href="https://muneebuddinahmed97.github.io/muneeb-portfolio/" style="text-decoration: none;">
-    <img src="hhttps://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muneebahmed97/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Muneeb_Ahmed9-blue?style=flat-square&logo=linkedin" alt="LinkedIn: Muneeb Ahmed9"/>
-  </a>
-  <a href="https://www.instagram.com/muneeb_ahmed97/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Muneeb_Ahmed97-E4405F?style=flat-square&logo=instagram" alt="Instagram: Muneeb Ahmed97"/>
-  </a>
-</div>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/muneeb_ahmed9)
+[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muneebuddinahmed97@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muneebahmed97/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muneeb_ahmed97/)
+
 
 
 
