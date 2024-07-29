@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-muneebuddinahmed97@gmail.com-red?style=flat-square&logo=gmail" alt="Email: muneebuddinahmed97@gmail.com"/>
   </a>
   <a href="https://muneebuddinahmed97.github.io/muneeb-portfolio/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio?style=flat-square&logo=detikcom" alt="Portfolio"/>
+    <img src="hhttps://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/muneebahmed97/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Muneeb_Ahmed9-blue?style=flat-square&logo=linkedin" alt="LinkedIn: Muneeb Ahmed9"/>
