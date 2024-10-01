@@ -10,10 +10,8 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muneebahmed97/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/muneeb_ahmed9)
-[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muneebuddinahmed97@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://muneebuddinahmed97.github.io/muneeb-portfolio/)
-
+[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:muneebuddinahmed97@gmail.com)
 
 
 ## My Favorite Tools and Technologies ⚙️ 
