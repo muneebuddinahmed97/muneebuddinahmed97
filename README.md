@@ -16,7 +16,7 @@
 
 ## My Favorite Tools and Technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am interested in.
+> Tools and technologies I have hands-on experience with and a keen interest and excited to explore further.
 <table>
     <tr>
     <td align="center" width="96">
