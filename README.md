@@ -82,7 +82,7 @@
   <tr>
         <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/AlibabaCloudLogo.svg" width="48" height="48" alt="Alibaba Cloud" />
-      <br><span style="font-size: 14px;">Alibaba Cloud</span>
+      <br><span style="font-size: 14px;">Alibaba</span>
     </td>
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="48" height="48" alt="CPanel" />
