@@ -81,7 +81,7 @@
   
   <tr>
         <td align="center" width="96">
-        <img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/logos/WHM_orange.svg" width="48" height="48" alt="WHM" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/AlibabaCloudLogo.svg" width="48" height="48" alt="Alibaba Cloud" />
       <br><span style="font-size: 14px;">WHM</span>
     </td>
     <td align="center" width="96">
